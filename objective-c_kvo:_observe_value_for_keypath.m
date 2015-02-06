@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: observeValueForKeyPath
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: 99CFD61A-3E23-4F0B-8CF3-8716286ABA49
+// IDECodeSnippetIdentifier: 33CE5711-7EBF-455A-89CB-043E112EEF9A
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 - (void)observeValueForKeyPath:(NSString *)keyPath ofObject:(id)object change:(NSDictionary *)change context:(void *)context
 {
     if (context == <#context#>) {
