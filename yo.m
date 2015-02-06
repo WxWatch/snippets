@@ -1,4 +1,4 @@
-// Yo man
+// Yo man axe
 // 
 //
 // IDECodeSnippetCompletionPrefix: YO
