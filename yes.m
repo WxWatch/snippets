@@ -1,5 +1,5 @@
 // yes
-// yes the description is king me pants :D
+// yes the description is king me pants :DD
 //
 // IDECodeSnippetCompletionPrefix: rfnocode
 // IDECodeSnippetCompletionScopes: [CodeBlock]
