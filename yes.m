@@ -1,7 +1,7 @@
 // yes
-// yes
+// yes the description is king
 //
-// IDECodeSnippetCompletionPrefix: rfyescode
+// IDECodeSnippetCompletionPrefix: rfnocode
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 20399FAD-DCB6-4A28-A3A1-0CD1DD8A9988
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
@@ -13,7 +13,7 @@
     
     NSBlockOperation *blockOperation = [NSBlockOperation blockOperationWithBlock:^{
         
-        NSLog(@"%@ removeCodeSnippet: %@", weakSelf, snippet);
+        NSLog(@"%@ removeCodeSnippetER: %@", weakSelf, snippet);
         
         [weakSelf removeAllFilesInLocalRepositoryForSnippet:blockSnippet];
         [weakSelf.gitRepository commit];
