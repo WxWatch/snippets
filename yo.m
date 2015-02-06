@@ -1,4 +1,4 @@
-// Yo
+// Yo man
 // 
 //
 // IDECodeSnippetCompletionPrefix: YO
@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: A1B8BFA0-23CB-493F-BFB5-C898ED26A959
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 - (void)controlTextDidChange:(NSNotification *)notification {
     NSTextField *textField = [notification object];
     
