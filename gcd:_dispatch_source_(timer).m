@@ -1,6 +1,7 @@
 // gcd:_dispatch_source_(timer)
 // Execute code when a periodic timer fires.
 //
+// gcd: _dispatch_source_(timer)
 // IDECodeSnippetCompletionPrefix: dispatch_source timer
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 453CA73E-10B2-418B-A97A-6603821226F9
