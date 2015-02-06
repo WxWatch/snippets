@@ -9,4 +9,5 @@
 // IDECodeSnippetVersion: 0
 - (void)dataStoreDidRemove {
     NSLog(@"%@ dataStoreDidRemove", self);
+    NSLog(@"I updated this in github");
 }
