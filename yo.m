@@ -1,7 +1,7 @@
 // Yo man axe
-// 
+// Now with description
 //
-// IDECodeSnippetCompletionPrefix: YODAWG
+// IDECodeSnippetCompletionPrefix: YODAWGGIT
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: A1B8BFA0-23CB-493F-BFB5-C898ED26A959
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
