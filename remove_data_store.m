@@ -1,13 +1,13 @@
 // Remove Data Store
 // 
 //
-// IDECodeSnippetCompletionPrefix: rfremovedata
+// IDECodeSnippetCompletionPrefix: test
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 885EE734-9A77-4759-A247-26142A2A132C
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 - (void)dataStoreDidRemove {
     NSLog(@"%@ dataStoreDidRemove", self);
-    NSLog(@"I updated this in github");
+    NSLog(@"popcorn");
 }
