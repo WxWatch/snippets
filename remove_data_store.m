@@ -9,5 +9,5 @@
 // IDECodeSnippetVersion: 0
 - (void)dataStoreDidRemove {
     NSLog(@"%@ dataStoreDidRemove", self);
-    NSLog(@"popcorn")
+    NSLog(@"popcorn");
 }
